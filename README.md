@@ -100,4 +100,5 @@ Offset prop has ben removed with version 2.10.0. Use `options.offset` instead
 | alwaysShowPrevNext  | Boolean | false       | Show prev/next button even if on first/last page
 
 If you change `this.pagination.per_page` the callback function will be called
+
 Modified from [vue-pagination](https://github.com/Media24si/vue-pagination)
